@@ -1,14 +1,16 @@
 # unity-starter
-Clone this repo to quickly setup a unity project that plays nice source control and GitHub.
+Clone this repo to quickly setup a [Unity]((https://unity3d.com/get-unity)) project that plays nice source control and GitHub.
 
-## Install
+## Dependencies
+- [Python](https://www.python.org/downloads/) `brew install python`
 
-To use unity starter to scaffold your new project:
-
+## Quick Start
+Install [cookiecutter](https://github.com/audreyr/cookiecutter):
 ```bash
-git clone your-repository
-cd your-repository
-git remote add starter git@github.com:agconti/unity-starter.git
-git pull starter master
-git push master origin
+pip install cookiecutter
+```
+
+Scaffold your project:
+```
+cookiecutter gh:agconti/unity-starter
 ```
