@@ -1,0 +1,6 @@
+{
+  "name": "Unity-starter",
+  "tagline": "Clone this repo to quickly setup a unity project that plays nice source control and GitHub.",
+  "body": "# unity-starter\r\nClone this repo to quickly setup a [Unity]((https://unity3d.com/get-unity)) project that plays nice source control and GitHub.\r\n\r\n## Dependencies\r\n- [Python](https://www.python.org/downloads/) `brew install python`\r\n\r\n## Quick Start\r\nInstall [cookiecutter](https://github.com/audreyr/cookiecutter):\r\n```bash\r\npip install cookiecutter\r\n```\r\n\r\nScaffold your project:\r\n```\r\ncookiecutter gh:agconti/unity-starter\r\n```\r\n![unity-starter scaffolding](media/unity-starter-clone.gif)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
