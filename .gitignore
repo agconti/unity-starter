@@ -24,3 +24,10 @@ ExportedObj/
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
+
+# OS Specific
+.DS_Store
+
+# Compiled Plugin exceptions need for building on unity cloud build
+!*.so
+!*.jar
