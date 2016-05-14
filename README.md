@@ -14,3 +14,4 @@ Scaffold your project:
 ```
 cookiecutter gh:agconti/unity-starter
 ```
+![unity-starter scaffolding](media/unity-starter-clone.gif)
